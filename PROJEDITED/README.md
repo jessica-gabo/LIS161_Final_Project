@@ -2,7 +2,7 @@
 
 * Unzip the folder provided to you (or copy and paste the contents outside).
 
-* wala to
+* wala to for instructions sya heheh
 
 Use the command line to make a folder called 'css.'
 

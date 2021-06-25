@@ -3,6 +3,7 @@
 * Unzip the folder provided to you (or copy and paste the contents outside).
 
 * wala to
+
 Use the command line to make a folder called 'css.'
 
 Use the command line to make a file called style.css inside of the css folder.

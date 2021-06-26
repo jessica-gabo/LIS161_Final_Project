@@ -4,7 +4,7 @@
 
 * Save both the python script and .txt in one file
 
-* You can run the code through Atom, the it will ask you "login or register?" 
+* You can run the code through Atom, then it will ask you "login or register?" 
 
 * You can use the username,password given in the .txt file, but you can still register a new username and password
 
